@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Dark Book
+*This log is not in an exact order and is the final interpretation of the user*
 
-You can use the [editor on GitHub](https://github.com/cybrcris/darkbook.eth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. The first item in the log I have is to use the Brave Browser. It is private, free, and integrated with the blockchain. They offer an integrated crypto wallet. It accepts plugins from google chrome and duck duck go making it very versatile. (duck duck go is another great Anonymous search engine that will block people collecting your information). Brave will pay you in their crypto to use the browser and view ads. The ads are beautifully done and up to your selection. You can articulate the ads to be info you search everyday anyways and get paid to view them in a smooth interface. Brave also blocks collectors of your information and boosts speed compared to other browsers. It lists blocked collectors and speed boost on the home page. This browser can do all this without collecting any of your personal information.
+                                                                 https://brave.com/
+                                                                 
+2. **Install crypto.com on your cell phone. This application will allow you to invest in cryptocurrency. There are many other viable options depending on your region which will dictate your level of accessibility and usability. This will benefit you in many ways. You can buy crypto and do what's called staking to profit a predetermined percentage for holding your crypto there for a set period of time. You can benefit from the growth of the asset and gain the guaranteed percentage. That percentage is paid to you in the crypto you are staking in weekly or monthly intervals. This is basically the novice users version of mining crypto currency. This is an asset as you can lay out guaranteed income without any overhead on your fluid asset. Depending on the asset you stake you can gain varying percentages on your crypto. You can stake what are called stable coins for a percentage around 12% and things like ethurim for around 5%. The Reason you gain more from the stable coins is they are never going to change much in value so your initial investment is both less volatile and less profitable. Therefore they pay a higher staking profit for the safer stable coins. If you stake ehtirum your investing in something more volatile and with a greater chance of gain. Therefore for ethirum they pay a lower staking profit. It's worth noting that they pay a higher percentage (6-12%) there on chain crypto that powers their application CRO. It's relatively cheap and stands to grow overtime as people become more aware of the benefits crypto can offer. They will allow you to have a crypto debit card powered by a visa ,free spotify, and 2% cash back in crypto if you stake 400 CRO. They also offer varying cards with great benefit increases with each tier. You can make purchases with your crypto. We suggest staking at least 400 CRO for The RUBY METAL CRYPTO CARD. These cards are really ahead of their time and people are on the waiting list for them. I will put a link below for Crypto.com. We suggest staking for a ruby card then buying and staking some CRO and ETH for both growth and mining via staking.
+                                 Use referral link https://crypto.com/app/j9juyfqgy9 to sign up for Crypto.com and get $25 (MUST STAKE FOR RUBY CARD)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+3. **Get nord vpn on your phone and cpu. This will allow you to mask your ip address via a virtual private network provided by nord. It will cost approx. 60 per year.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# cats1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cybrcris/darkbook.eth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
