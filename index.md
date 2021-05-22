@@ -1,5 +1,6 @@
 ## Welcome to Dark Book
 *This log is not in an exact order and is the final interpretation of the user*
+ethereum contributions send here 0xc0C404A1f45E93f16b86077862125867B3f620a0
 
 1. The first item in the log I have is to use the Brave Browser. It is private, free, and integrated with the blockchain. They offer an integrated crypto wallet. It accepts plugins from google chrome and duck duck go making it very versatile. (duck duck go is another great Anonymous search engine that will block people collecting your information). Brave will pay you in their crypto to use the browser and view ads. The ads are beautifully done and up to your selection. You can articulate the ads to be info you search everyday anyways and get paid to view them in a smooth interface. Brave also blocks collectors of your information and boosts speed compared to other browsers. It lists blocked collectors and speed boost on the home page. This browser can do all this without collecting any of your personal information.
                                                                  https://brave.com/
